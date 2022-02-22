@@ -1,0 +1,49 @@
+#encabezado{
+    background-color: orangered;
+    padding: 0px, 0px, 0px, 0px;
+    margin: 0px, 0px, 0px, 0px;
+    width: auto;
+    height: 80px;
+}
+
+.textoCentrado{
+    color: white;
+    height: 80px;
+    width: auto;
+    line-height: 80px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.logo{
+    position: fixed;
+    left: 50%;
+}
+
+.contenido{
+    background-color: white;
+}
+
+ul{
+    list-style: none;
+}
+
+#menu{
+    background-color: antiquewhite;
+}
+
+ul.horizontal{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul.horizontal li{
+    display: block;
+    float: left;
+    padding: 0 10px;
+}
+
+
+.textoLateral1{
+    margin-left: 5px;
+}
